@@ -1,2 +1,3 @@
 # This is a comment, just like Python
-echo "hi, mom"
+echo "first command"
+echo "second command"
